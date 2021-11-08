@@ -1,0 +1,4 @@
+  L1 Cache Hit: 112  L1 Cache Miss: 47
+  L2 Cache : 14  L1 Cache Miss: 33
+  L3 Cache : 0  L1 Cache Miss: 33
+ Main Memory : 33 Cycles669219

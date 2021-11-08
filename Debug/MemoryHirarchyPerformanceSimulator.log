@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\memorySimulator.h(18,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(146,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(147,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(148,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(355,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(198,48): warning C4101: 'tempLocation3': unreferenced local variable
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(212,9): warning C4101: 'TagInRow': unreferenced local variable
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(197,12): warning C4101: 'n2': unreferenced local variable
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(198,33): warning C4101: 'tempLocation2': unreferenced local variable
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(198,19): warning C4101: 'tempLocation': unreferenced local variable
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(197,16): warning C4101: 'n3': unreferenced local variable
+C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\MemoryHirarchyPerformanceSimulator\main.cpp(197,9): warning C4101: 'n': unreferenced local variable
+  MemoryHirarchyPerformanceSimulator.vcxproj -> C:\Users\AA\source\repos\MemoryHirarchyPerformanceSimulator\Debug\MemoryHirarchyPerformanceSimulator.exe
